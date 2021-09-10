@@ -5,10 +5,7 @@
 }
 
 body{
-    background-image: url(./fizz-buzz.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color:  aqua;
 }
 .fizzbuzz{
     width: 100%;
@@ -42,7 +39,7 @@ body{
     margin-bottom: 30px;
     text-align: start;
     padding-left: 30px;
-    color: rgb(83, 80, 80);
+    color: #535050;
     font-size: 45px;
     font-weight: bold;
     font-style: italic;
@@ -53,7 +50,7 @@ body{
     position: absolute;
     width: 3px;
     height: 35px;
-    background-color: rgb(83, 80, 80);
+    background-color: black;
     border-radius: 5%;
     left: 12px;
     top: 8px;

@@ -24,6 +24,5 @@ elForm.addEventListener("submit", function(e) {
     }
 
     elInputValue = null;
-    elList.textContent = null;
 })
 
